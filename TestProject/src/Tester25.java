@@ -5,7 +5,7 @@ public class Tester25 {
 		// TODO Auto-generated method stub
 System.out.print("success");
 System.out.print("success1");
-//add extra line
+//add extra liness
 	}
 
 }
